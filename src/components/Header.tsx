@@ -42,7 +42,7 @@ const Header = () => {
           {/* Logo */}
           <a href="#inicio" className="flex items-center gap-2">
             <img src={logo} alt="Speed Tecnologia" className="w-10 h-10 object-contain" />
-            <span className="font-bold text-lg hidden sm:block">Speed Tecnologia</span>
+            <span className="font-bold text-lg hidden sm:block">Speed Web Tecnologia</span>
           </a>
 
           {/* Desktop Navigation */}

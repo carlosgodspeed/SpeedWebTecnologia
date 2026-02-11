@@ -38,7 +38,7 @@ const Footer = () => {
           <div className="col-span-2 md:col-span-1">
             <a href="#inicio" className="flex items-center gap-2 mb-4">
               <img src={logo} alt="Speed Tecnologia" className="w-10 h-10 object-contain" />
-              <span className="font-bold text-lg">Speed Tecnologia</span>
+              <span className="font-bold text-lg">Speed Web Tecnologia</span>
             </a>
             <p className="text-muted-foreground text-sm leading-relaxed mb-4">
               Transformamos ideias em soluções digitais de excelência. 
@@ -107,7 +107,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-border/50 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-sm text-muted-foreground flex items-center gap-1">
-            © {currentYear} Speed Tecnologia
+            © {currentYear} Speed Web Tecnologia
           </p>
 
           <button
