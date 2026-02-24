@@ -40,8 +40,8 @@ const Header = () => {
       <div className="container mx-auto px-4 lg:px-8">
         <div className="flex items-center justify-between h-16 lg:h-20">
           {/* Logo */}
-          <a href="#inicio" className="flex items-center gap-2">
-            <img src={logo} alt="Speed Tecnologia" className="w-10 h-10 object-contain" />
+          <a href="#inicio" className="flex items-center gap-1">
+            <img src={logo} alt="Speed Tecnologia" className="w-15 h-20 object-contain" />
             <span className="font-bold text-lg hidden sm:block">Speed Web Tecnologia</span>
           </a>
 

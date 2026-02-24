@@ -37,7 +37,7 @@ const Footer = () => {
           {/* Brand */}
           <div className="col-span-2 md:col-span-1">
             <a href="#inicio" className="flex items-center gap-2 mb-4">
-              <img src={logo} alt="Speed Tecnologia" className="w-10 h-10 object-contain" />
+              <img src={logo} alt="Speed Tecnologia" className="w-14 h-20 object-contain" />
               <span className="font-bold text-lg">Speed Web Tecnologia</span>
             </a>
             <p className="text-muted-foreground text-sm leading-relaxed mb-4">
